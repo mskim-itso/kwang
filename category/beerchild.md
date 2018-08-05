@@ -3,8 +3,8 @@ layout: category
 current: post
 navigation: true
 class: post-template
-title: SNS 뉴스
-category: SNS News
+title: 맥린이 - 맥주 어린이
+category: Beer Child
 type: category
 ---
 
