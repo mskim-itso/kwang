@@ -60,16 +60,6 @@ $(document).ready(function () {
 
     update();
 
-	$("#modal-iframe").iziModal({
-		iframe: true,
-		iframeHeight: 800,
-	});
 });
 
-$(document).on('click', '.trigger', function (event) {
-	event.preventDefault();
-	$('#modal-iframe').iziModal('open')
-	// or
-	$('#modal-iframe').iziModal('open', event); // Use "event" to get URL href
-});
 </script>
